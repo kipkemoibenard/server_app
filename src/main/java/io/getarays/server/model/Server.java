@@ -32,4 +32,6 @@ public class Server {
     private String imageUrl;
     private Status status;
 
+    public Server(Long aLong, String ipAddress, String ubuntu_linux, String memory, String personal_pc, String imageUrl, Status serverUp) {
+    }
 }
